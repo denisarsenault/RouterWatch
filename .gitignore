@@ -1,0 +1,12 @@
+# Xcode
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# The project is generated from project.yml — regenerate with `xcodegen generate`.
+# Remove this line if you prefer to commit the .xcodeproj.
+RouterWatch.xcodeproj/
+
+# macOS
+.DS_Store
